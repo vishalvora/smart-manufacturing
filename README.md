@@ -1,4 +1,4 @@
-# smart-manufacturing
+# Smart-manufacturing
 
 The Open-source platform for smart manufacturing
 
